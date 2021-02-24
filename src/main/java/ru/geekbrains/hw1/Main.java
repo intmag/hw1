@@ -28,9 +28,9 @@ public class Main {
 
     public static void checkNum(int a) {
         if (a < 0) {
-            System.out.println("Число: " + a + " - отрицательное.");
+            System.out.println("Число: " + a + " - отрицательное");
         } else {
-            System.out.println("Число" + a + " - положительное.");
+            System.out.println("Число" + a + " - положительное");
         }
     }
 
